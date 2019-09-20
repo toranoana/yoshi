@@ -1,0 +1,9 @@
+node_modules/
+image/
+trace/
+.DS_Store
+.idea/
+bin/
+*.iml
+logs/
+.env
