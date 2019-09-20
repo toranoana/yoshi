@@ -1,5 +1,7 @@
 node_modules/
-image/
+image/*.jpg
+image/*.jpeg
+image/*.png
 trace/
 .DS_Store
 .idea/
